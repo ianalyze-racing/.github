@@ -8,7 +8,7 @@ With support for games like **iRacing, rFactor 2, and Assetto Corsa**, it delive
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-darkgreen?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-darkgreen?style=for-the-badge)](https://ianalyze-racing.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the installer on your Windows PC.  
